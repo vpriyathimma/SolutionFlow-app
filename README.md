@@ -1,4 +1,4 @@
-#  StackOverflow Search App (Expo)
+#  SolutionFlow App 
 
 A simple and clean **Expo Android application** that allows users to search StackOverflow questions and view the top results instantly.
 
@@ -26,5 +26,6 @@ Each result card shows:
 ## Notes
 
 - [SO API Docs](https://api.stackexchange.com/docs) 
+
 
 
