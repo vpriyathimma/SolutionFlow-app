@@ -1,14 +1,33 @@
-The app is developed using Expo for android. 
+#  StackOverflow Search App (Expo)
 
-- [X] Search Bar
-- [X] Query a term
-- [X] Show top 10 results
-  - [X] Every result should show 
-    - [X] total votes
-    - [X] brief text
-    - [X] person asking
+A simple and clean **Expo Android application** that allows users to search StackOverflow questions and view the top results instantly.
+
+---
+
+##  Features
+
+###  Search
+- Search for any keyword or topic
+- Fetches **top 10 StackOverflow questions**
+
+###  Results Display
+Each result card shows:
+-  **Total Votes**
+-  **Short Description**
+-  **User who asked the question** (nicely formatted)
+
+###  UI/UX
+- Minimalist design
+- Mobile-friendly layout
+- Smooth performance on Android (Expo)
+
+---
+
+## 📂 Project Structure
+
 
 
 ## Notes
 
 - [SO API Docs](https://api.stackexchange.com/docs) 
+
