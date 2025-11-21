@@ -23,11 +23,8 @@ Each result card shows:
 
 ---
 
-## 📂 Project Structure
-
-
-
 ## Notes
 
 - [SO API Docs](https://api.stackexchange.com/docs) 
+
 
